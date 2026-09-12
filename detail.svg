@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#eaf7fb"/><stop offset="1" stop-color="#c8e5ee"/></linearGradient></defs>
+<rect width="800" height="620" rx="35" fill="url(#b)"/>
+<path d="M85 125h630v390H85z" fill="#f5eee5" rx="15"/><path d="M100 140h600v360H100z" fill="#eee2d3"/>
+<path d="M135 150h530l-40 345H175z" fill="#fff" stroke="#d8d1c9" stroke-width="5"/>
+<path d="M260 150c20 80 250 80 270 0" fill="none" stroke="#ccd7dc" stroke-width="10"/>
+<g fill="#fff" opacity=".9"><circle cx="405" cy="255" r="9"/><circle cx="432" cy="220" r="6"/><circle cx="375" cy="230" r="5"/></g>
+<rect x="535" y="225" width="140" height="220" rx="40" fill="#d9e3e7" stroke="#91a4ae" stroke-width="5"/><rect x="562" y="275" width="85" height="120" rx="20" fill="#fbfdfe"/>
+<path d="M555 240c-12-90 15-135 58-145 50-11 78 35 68 145" fill="#eaf0f2" stroke="#91a4ae" stroke-width="5"/>
+<path d="M590 100c15-35 38-48 55-50" fill="none" stroke="#35a9e8" stroke-width="8" stroke-linecap="round"/>
+<text x="55" y="570" font-family="Arial" font-size="25" fill="#365b6b">FAST. SMOOTH. READY IN MINUTES.</text>
+</svg>
