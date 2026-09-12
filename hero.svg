@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e8f2f6"/><stop offset="1" stop-color="#c8dbe2"/></linearGradient><linearGradient id="metal" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".5" stop-color="#dce5e9"/><stop offset="1" stop-color="#9eafb7"/></linearGradient></defs>
+<rect width="900" height="700" rx="38" fill="url(#bg)"/><circle cx="710" cy="135" r="115" fill="#f7fbfc" opacity=".7"/>
+<path d="M520 85c80 15 175 35 260 120v370H500c-40-150-35-330 20-490z" fill="#f7f4ef"/>
+<path d="M170 590c100-80 170-115 270-110 100 5 185 45 290 110v110H170z" fill="#b6c5c8"/>
+<!-- hanging shirt -->
+<path d="M120 155l145-75 105 70 150 25 85 365H115z" fill="#fdfdfd" stroke="#d2dce0" stroke-width="6"/>
+<path d="M266 80c-15 90 125 105 105 0" fill="none" stroke="#b8c5ca" stroke-width="8"/>
+<!-- steamer -->
+<rect x="545" y="275" width="170" height="245" rx="45" fill="url(#metal)" stroke="#879aa4" stroke-width="5"/>
+<rect x="580" y="335" width="100" height="150" rx="24" fill="#f8fbfc" stroke="#c3d0d5" stroke-width="4"/>
+<circle cx="630" cy="370" r="12" fill="#35a9e8"/><circle cx="630" cy="405" r="12" fill="#35a9e8"/><circle cx="630" cy="440" r="12" fill="#35a9e8"/>
+<path d="M575 300c-10-95 20-150 72-155 55-5 88 42 75 155" fill="url(#metal)" stroke="#879aa4" stroke-width="5"/>
+<path d="M610 145c12-28 22-43 39-55 18 12 29 28 37 55" fill="#eef4f6" stroke="#8fa2ab" stroke-width="5"/>
+<path d="M638 105c0-65 30-75 53-45" fill="none" stroke="#35a9e8" stroke-width="9" stroke-linecap="round"/>
+<g fill="#fff" opacity=".8"><circle cx="438" cy="205" r="7"/><circle cx="466" cy="174" r="5"/><circle cx="490" cy="225" r="8"/></g>
+</svg>
