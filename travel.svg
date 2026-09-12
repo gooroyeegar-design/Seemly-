@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<rect width="800" height="600" rx="35" fill="#f1f7f8"/><rect x="70" y="80" width="660" height="440" rx="30" fill="#fff" stroke="#d8e6ea" stroke-width="5"/>
+<path d="M110 125h580v350H110z" fill="#dfeff3"/>
+<path d="M175 180h190l35 230H140z" fill="#fefefe" stroke="#d5dfe2" stroke-width="4"/>
+<path d="M250 180c0 45 60 45 60 0" fill="none" stroke="#b8c7cc" stroke-width="7"/>
+<rect x="470" y="220" width="135" height="190" rx="35" fill="#e2eaed" stroke="#94a8b1" stroke-width="5"/>
+<path d="M490 230c-5-70 15-105 55-112 42-7 65 30 57 112" fill="#edf3f5" stroke="#94a8b1" stroke-width="5"/>
+<circle cx="537" cy="285" r="9" fill="#35a9e8"/><circle cx="537" cy="315" r="9" fill="#35a9e8"/><circle cx="537" cy="345" r="9" fill="#35a9e8"/>
+<text x="150" y="465" font-family="Arial" font-size="28" font-weight="700" fill="#173e52">PACK LIGHT. LOOK SHARP.</text>
+</svg>
